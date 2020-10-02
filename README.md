@@ -3,19 +3,24 @@
 </p>
 
 
-### Full-Stack Javascript Developer 
+<h1 align="center"><strong>Full-Stack Javascript Developer</strong></h1> 
 
-👨🏼‍💻 Currently building a visitor management application  
-🧠 Currently learning  [ThreeJS][ThreeJS] ,[GLSL][GLSL] ,[WebGL][WebGL] ,[C#][C#]  
- 
-🏡 [Website]: https://olonnye.com 
+<div align="center">
+  <details>
+  <summary>🧠 Currently learning</summary>
+
+  [ThreeJS](Threejs.org)
+  [GLSL](https://learnopengl.com/Getting-started/Shaders)
+  [WebGL](https://www.khronos.org/webgl/)
+  [C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
+  
+  </details>
+
+  👨🏼‍💻 Currently building a visitor management application  
+  🏡 [Personal Website](http://olonnye.com)
+</div>
 
 
 <p align="center">
-  <strong>
-    In recent years I have went from a self-taught freelance developer to a lead developer for a local company called cyberworks. Through my experiences, I've learned to love embracing new challenges that take me out my comfort zone as well as realizing how much I still need to learn.
-  </strong>
+  In recent years I have went from a self-taught freelance developer to a lead developer for a local company called cyberworks. Through my experiences, I've learned to love embracing new challenges that take me out my comfort zone as well as realizing how much I still need to learn.
 </p>
-
-
-<p align="center"><strong>Thank you for visiting my repo! :)</strong></p>
