@@ -7,16 +7,20 @@
 
 <div align="center">
   <details>
-  <summary>🧠 Currently learning</summary>
+  <summary>Currently learning: </summary>
 
-  [ThreeJS](Threejs.org)
-  [GLSL](https://learnopengl.com/Getting-started/Shaders)
-  [WebGL](https://www.khronos.org/webgl/)
-  [C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
+  | [ThreeJS](Threejs.org) 
+
+  | [GLSL](https://learnopengl.com/Getting-started/Shaders) 
+
+  | [WebGL](https://www.khronos.org/webgl/) 
+
+  | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
   
   </details>
 
-  👨🏼‍💻 Currently building a visitor management application  
+  <em>🧠 Currently building a visitor management application 🧠</em>
+
   🏡 [Personal Website](http://olonnye.com)
 </div>
 
