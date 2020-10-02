@@ -2,7 +2,13 @@
   <img src="https://raw.githubusercontent.com/boredasfawk/boredasfawk/master/.github/images/neir-space.gif">
 </p>
 
-<p align="center"><strong>Thank you for visiting my repo! :)</strong></p>
+
+### Full-Stack Javascript Developer 
+
+👨🏼‍💻 Currently building a visitor management application  
+🧠 Currently learning  [ThreeJS][ThreeJS] ,[GLSL][GLSL] ,[WebGL][WebGL] ,[C#][C#]  
+ 
+🏡 [Website]: https://olonnye.com 
 
 
 <p align="center">
@@ -11,11 +17,5 @@
   </strong>
 </p>
 
-<p align="center"> 
-  Personal Website:
-  <a href="https://olonnye.com">
-    <img src="https://api.netlify.com/api/v1/badges/6e03e930-862a-424b-80c9-5ab788ac9801/deploy-status">
-  </a>
-</p>
 
-
+<p align="center"><strong>Thank you for visiting my repo! :)</strong></p>
