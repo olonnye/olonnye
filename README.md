@@ -15,16 +15,16 @@
 
   | [WebGL](https://www.khronos.org/webgl/) 
 
-  | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
+  | [C++](https://en.cppreference.com/w/)
   
   </details>
 
-  <em>🧠 Currently building a visitor management application 🧠</em>
+  <em>🧠 Currently learning to build a VST plugin 🧠</em>
 
   🏡 [Personal Website](http://olonnye.com)
 </div>
 
 
 <p align="center">
-  In recent years I have went from a self-taught freelance developer to a lead developer for a local company called cyberworks. Through my experiences, I've learned to love embracing new challenges that take me out my comfort zone as well as realizing how much I still need to learn.
+  In recent years I have went from a self-taught freelance developer to a senior developer. Through my experiences, I've had new challenges that've taken me out my comfort zone as well as realized how much I still need to learn in order to reach my personal goals.
 </p>
