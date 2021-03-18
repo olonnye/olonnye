@@ -19,7 +19,7 @@
   
   </details>
 
-  <em>🧠 Currently learning to build a VST plugin 🧠</em>
+  <em>💻Currently taking on new projects💻</em>
 
   🏡 [Personal Website](http://olonnye.com)
 </div>
