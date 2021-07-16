@@ -13,9 +13,9 @@
 
   | [GLSL](https://learnopengl.com/Getting-started/Shaders) 
 
-  | [WebGL](https://www.khronos.org/webgl/) 
+  | [Solidity]https://docs.soliditylang.org/) 
 
-  | [C++](https://en.cppreference.com/w/)
+  | [go](https://golang.org/doc/)
   
   </details>
 
@@ -26,5 +26,5 @@
 
 
 <p align="center">
-  In recent years I have went from a self-taught freelance developer to a senior developer. Through my experiences, I've had new challenges that've taken me out my comfort zone as well as realized how much I still need to learn in order to reach my personal goals.
+  In recent years I have went from a self-taught freelance developer to a lead developer. Through my experiences, I've had new challenges that've taken me out my comfort zone as well as realized how much I still need to learn in order to reach my personal goals.
 </p>
