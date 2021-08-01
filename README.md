@@ -19,7 +19,7 @@
   
   </details>
 
-  <em>💻Currently taking on new projects💻</em>
+  <em>💻Currently not taking on new projects💻</em>
 
   🏡 [Personal Website](http://olonnye.com)
 </div>
