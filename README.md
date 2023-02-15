@@ -9,13 +9,12 @@
   <details>
   <summary>Currently learning: </summary>
 
-  | [ThreeJS](Threejs.org) 
 
   | [GLSL](https://learnopengl.com/Getting-started/Shaders) 
 
-  | [Solidity]https://docs.soliditylang.org/) 
+  | [juce](https://juce.com/) 
 
-  | [go](https://golang.org/doc/)
+  | [c++](https://en.cppreference.com/w/cpp/11)
   
   </details>
 
