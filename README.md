@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center"><strong>Full-Stack Javascript Developer</strong></h1> 
+<h1 align="center"><strong>Full-Stack Software Engineer</strong></h1> 
 
 <div align="center">
   <details>
