@@ -9,7 +9,7 @@
   <details>
   <summary>Currently learning: </summary>
 
-  | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials)
+  [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials)
   
   </details>
 
