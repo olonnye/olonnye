@@ -9,7 +9,7 @@
   <details>
   <summary>Currently learning: </summary>
 
-  [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials)
+  [JEV Engineering]([https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials](https://typesafe.ai/blog/introducing-system-one-models-and-jev))
   
   </details>
 
